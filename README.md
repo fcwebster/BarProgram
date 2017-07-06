@@ -1,1 +1,1 @@
-# BarProgram
+# BarProgram This is the bar program. A user inputs a number and the program will print x's to the screen as many times as the selected number. The program will run in a loop untill the user inputs the number 0.
